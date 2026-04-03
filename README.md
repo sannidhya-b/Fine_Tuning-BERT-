@@ -188,8 +188,8 @@ All dependencies are auto-installed in Cell 1 of the notebook.
 
 ---
 
-## 👤 Sannidhya Bahulekar
+## 👤 Author
 
-**Your Name**  
+**Sannidhya Bahulekar**  
 Data Science Intern – February 2026  
-[GitHub Profile](https://github.com/your-username)
+
